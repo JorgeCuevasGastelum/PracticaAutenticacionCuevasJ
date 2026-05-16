@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313808595325",
+    "project_id": "ejemplologin-cc872",
+    "storage_bucket": "ejemplologin-cc872.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313808595325:android:6c01114c7016819ac54414",
+        "android_client_info": {
+          "package_name": "com.example.practicaauthenticacioncuevasj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADUYIVbKan86Df58czigZVMMzSS5NDutw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
